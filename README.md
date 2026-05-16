@@ -28,13 +28,13 @@ Although both encode the same language, they differ in consonant spellings, tone
  
 | Source | Sentences |
 |---|---|
-| Ministry of Education Taiwanese Hokkien Dictionary | 96 |
+| Ministry of Education Taiwanese Hokkien Dictionary | 95 |
 | New Taipei City instructional support system (新北輔導團) | 50 |
 | Minpao — Tâi-gí World (contemporary journalism) | 45 |
 | New Testament (POJ) | 5 |
 | POJ geography textbook (1920) | 8 |
 | Old Testament (POJ) | 1 |
-| **Total** | **205** |
+| **Total** | **204** |
  
 All romanised forms were reviewed and corrected by a professional Taiwanese language educator.
  
