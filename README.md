@@ -24,7 +24,7 @@ Although both encode the same language, they differ in consonant spellings, tone
  
 ## Corpus
  
-205 parallel sentences (each represented in both POJ and Tâi-lô), drawn from:
+204 parallel sentences (each represented in both POJ and Tâi-lô), drawn from:
  
 | Source | Sentences |
 |---|---|
